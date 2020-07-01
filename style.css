@@ -13,16 +13,18 @@
 		flex-wrap: nowrap
 		font-size: 10px;
 	}
-	#bandeannonce{width:auto;
-	}
+	
 	.feature{width: auto; 
 		margin:2px; 
 		padding:2px;
 	}
-	.container{width:auto; align-content:flex-start;
+	.container{width:auto; 
+		align-content:start;
 	}
 	title{text-align: center;
-		font-size:auto;
+		font-size:10px;
+		float: center;
+		overflow: none;
 	}
 	.left{float :center;
 		text-align: center;
@@ -30,7 +32,7 @@
 		overflow: none;
 		align-content: center;
 	}
-	.right{float:center;
+	.right{float: end;
 		text-align: center;
 		width:auto;
 		align-content: end;
@@ -42,6 +44,7 @@
 	iframe{width:auto; height:auto; align-content: start;
 	}
 }
+
 body{
 	margin: 2px;
 	padding :5px;
