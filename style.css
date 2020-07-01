@@ -10,7 +10,8 @@
 	}
 	.menu{margin: 0 auto;
 		display:flex;
-		flex-wrap: nowrap;
+		flex-wrap: nowrap
+		font-size: 10px;
 	}
 	#bandeannonce{width:auto;
 	}
@@ -21,24 +22,24 @@
 	.container{width:auto; align-content:flex-start;
 	}
 	title{text-align: center;
-		size:auto;
+		font-size:auto;
 	}
 	.left{float :center;
 		text-align: center;
-		width : max-device-width-10px;
+		width : auto;
 		overflow: none;
 		align-content: center;
 	}
 	.right{float:center;
 		text-align: center;
 		width:auto;
-		align-content: flex-end;
+		align-content: end;
 	}
 	nav a{font-family: Roboto;
 	}
-	nav{height: 30px; width: auto;
+	nav{height: auto; width: auto;
 	}
-	iframe{width:auto; height:auto; align-content: flex-start;
+	iframe{width:auto; height:auto; align-content: start;
 	}
 }
 
