@@ -1,6 +1,6 @@
-@media screen and (max-device-width: 780px)
+@media screen and (max-device-width: 480px)
 {
-	p{color: black}
+	p{color: black ; font-family: Roboto;}
 	bloc-page{width: auto}
 	nav{width:auto;}
 	header{width: 5px;}
@@ -17,6 +17,9 @@
 		text align:center;
 		width:auto;}
 	body{font-family:Roboto;}
+	h1{font-family:Roboto;}
+	h2{font-family:Roboto;}
+	h3{font-family:Roboto;}
 }
 
 body{
