@@ -15,17 +15,17 @@
 		overflow: none;
 		align-content: center}
 	.right{float:center;
-		text align:center;
+		text-align: center ;
 		width:auto;
-		align-content: center}
+		align-content: flex-end;}
 	body{font-family:Roboto;}
 	h1{font-family:Roboto;}
 	h2{font-family:Roboto;}
 	h3{font-family:Roboto;}
 	a{font-family: Roboto;}
+	nav a{font-family: Roboto;}
 	nav{height: 30px; width: auto}
-	iframe{width:auto; height:auto;}
-}
+	iframe{width:auto; height:auto; align-content: flex-start;}
 
 body{
 	margin: 2px;
