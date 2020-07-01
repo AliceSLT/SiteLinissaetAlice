@@ -107,17 +107,17 @@ p{font-family: Roboto;
 
 @media screen and (max-width: 780px)
 {
-	p{color: black ;
-	}
-	bloc-page{width: auto;
-	}
-	nav{width:auto;
-	}
-	header{width: 5px;
-	}
+	p{color: black ;}
+
+	bloc-page{width: auto}
+
+	nav{width:auto;}
+
+	header{width: 5px;}
+
 	.menu{margin: 0 auto;
 		display:flex;
-		flex-wrap: nowrap;
+		flex-wrap: nowrap
 		font-size: 10px;
 	}
 	
@@ -145,8 +145,10 @@ p{font-family: Roboto;
 		overflow: none;
 	}
 	nav a{font-family: Roboto;
+		display : inline-block;
+		height: auto;
 	}
-	nav{height: auto; width: auto;
+	nav{height: auto; width: 80% auto;
 	}
 	iframe{width:auto; height:auto; align-content: start;
 	}
