@@ -113,4 +113,7 @@ p{font-family: Roboto;
 	header{width: 5px;}
 	#bandeannonce{width:auto;}
 	.feature{width: auto; margin:2px; padding:2px;}
+	.container{width:auto; align-content:flex-start;}
+	title{text-align: center;
+		size:auto;}
 }
