@@ -107,17 +107,21 @@ p{font-family: Roboto;
 
 @media screen and (max-width: 780px)
 {
-	p{color: black ;}
+	p{color: black ;
+	font-family: Roboto;}
 
 	bloc-page{width: auto}
 
 	nav{width:auto;}
 
-	header{width: 5px;}
-
+	header{width: auto;}
+	
+	a{font-family: Roboto;
+	font-size: auto;}
+	
 	.menu{margin: 0 auto;
 		display:flex;
-		flex-wrap: nowrap
+		flex-wrap: nowrap;
 		font-size: 10px;
 	}
 	
@@ -129,7 +133,7 @@ p{font-family: Roboto;
 		align-content:start;
 	}
 	title{text-align: center;
-		font-size:10px;
+		font-size:auto;
 		float: center;
 		overflow: none;
 	}
