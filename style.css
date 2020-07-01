@@ -105,7 +105,7 @@ p{font-family: Roboto;
   width: 80%;
 }
 
-@media screen and (max-device-width: 300px)
+@media screen and (max-device-width: 780px)
 {
 	p{color: black ;
 	}
