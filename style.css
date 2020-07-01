@@ -9,6 +9,14 @@
 	.container{width:auto; align-content:flex-start;}
 	title{text-align: center;
 		size:auto;}
+	.left{float :center;
+		text-align: center;
+		width : auto;
+		overflow: none;}
+	.right{float:center;
+		text align:center;
+		width:auto;}
+	body{font-family:Roboto;}
 }
 
 body{
