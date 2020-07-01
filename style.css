@@ -26,16 +26,16 @@
 		float: center;
 		overflow: none;
 	}
-	.left{float :center;
+	.left{float :center start;
 		text-align: center;
 		width : auto;
 		overflow: none;
 		align-content: center;
 	}
-	.right{float: end;
+	.right{float: center end;
 		text-align: center;
 		width:auto;
-		align-content: end;
+		overflow: none;
 	}
 	nav a{font-family: Roboto;
 	}
