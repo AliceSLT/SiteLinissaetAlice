@@ -152,7 +152,7 @@ p{font-family: Roboto;
 		display : inline-block;
 		height: auto;
 	}
-	nav{height: auto; width: 80% auto;
+	nav{height: auto; width: 100%;
 	}
 	iframe{width:auto; height:auto; align-content: start;
 	}
